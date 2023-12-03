@@ -1,4 +1,4 @@
-// Classificador do nível de Herói
+// Classificador do nível de Herói!
 let nome = "Goku"
 let xp = 6.500 
 
